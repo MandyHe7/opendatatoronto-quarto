@@ -1,0 +1,4 @@
+├── data/          # Store raw datasets
+├── scripts/       # Quarto or R script for data cleaning and analysis
+├── output/        # For generated plots or figures
+├── README.md      # Repository overview
